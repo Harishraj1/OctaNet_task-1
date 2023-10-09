@@ -1,0 +1,166 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.block1{
+    background-color: black;
+    display: flex;
+    padding: 10px;
+    color: white;
+    position: sticky;
+    top: 0%;
+    
+}
+.block1_1{
+    
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    width: 30%;
+    margin-left: 50%;
+}
+
+.block2{
+     background-color: rgb(207, 208, 209);
+     height: 40%;
+     color: black;
+}
+     
+.block2_1{
+    
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.block2_2{
+    padding-top: 2%;
+    margin-left: 5%;
+    display: inline;
+}
+.block2_3{
+    
+    display: flex;
+    width: 350px;
+    justify-content: space-around;
+    margin-left: 5%;
+}
+.shop_and_video_box{
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 130px;
+    text-align: center;
+    margin-left: 0;
+   
+}
+
+.boxtext{
+    padding: 7px;
+}
+.start_img{
+    float: right;
+    margin-right: 5%;
+    margin-top: 2%;
+    border-radius: 5px;
+}
+
+.block3{
+    text-align: center;
+    padding: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.block3_1{
+    display: flex;
+    justify-content: space-around;
+    gap: 7%;
+}
+.three_flux{
+    border: solid black 2px ;
+    text-align: center;
+    padding: 2%;
+}
+.block4{
+    background-color: rgb(207, 208, 209);
+    padding: 2%;
+    text-align: center;
+    
+}
+.block4_1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 10px;
+    
+}
+.block4_2{
+    bottom: 50px;    
+}
+.para1{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.block5{
+   padding: 2%; 
+   height: 65%;
+}
+.block5_1{
+    display: flex;
+    justify-content: space-around;
+}
+.block5_2{
+    text-align: center;
+}
+.block6{
+    background-color: rgb(207, 208, 209);
+    height: 45%;
+    padding: 2%;
+}
+.img{
+    float: left;;
+    left: 0%;
+    bottom: 75px;
+}
+.block6_1{
+    padding: 3%;
+    padding-left: 25%;
+
+}
+.block7{
+ text-align: center;
+}
+.input{
+    width: 70%;
+    height: 5%;
+}
+.text{
+    display: flex;
+    background-color: black;
+    color: white;
+    display: inline;
+    padding: 5px;
+    border-radius: 5%;
+}
+.subbox{
+    padding: 1%;
+    
+    
+}
+.block8{
+    background-color: rgb(207, 208, 209);
+    padding: 2%;
+    height: 24%;
+
+}
+.block8_1{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.last_word{
+    color: gray;
+}
